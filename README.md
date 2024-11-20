@@ -13,7 +13,7 @@
 ## 🛠 Công nghệ sử dụng
 
 - **Front-end:** 
-  - HTML, CSS, SASS
+  - HTML, CSS
 - **Back-end:** 
   - JSP/Servlet
   - Mô hình MVC
