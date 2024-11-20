@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/css/order_history.css</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/user.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/search.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/adminHistory.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Orders/OrderDetailDAO.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/css/order_details.css</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Controllers/MainController.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Controllers/AdminHistoryController.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/viewCart.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Controllers/CheckController.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/sortPage.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/productDetails.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/productList.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/paymentSuccess.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/order_details.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/home.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Controllers/LoginController.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Orders/Order.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/css/home.css</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/order_history.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Orders/OrderDetail.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Controllers/OrderDetailsController.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/productDetail.jsp</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/src/java/Orders/OrderDAO.java</file>
+            <file>file:/C:/Workspace/PRJ301/FPTShop/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
